@@ -1,5 +1,4 @@
 import tkinter as tk
-import streamlit
 
 class CalculatorApp:
     def __init__(self, root):
